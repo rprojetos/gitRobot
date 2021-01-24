@@ -1,3 +1,5 @@
 um arquivo de texto
 Agora alteramos no rep. remoto
-Criamo uma Branch vsRobotV1
+Criamos uma Branch vsRobotV1
+Agora estamos alterando somente a branch vsRobotV1
+Mais uma linha de alteração adicionada
